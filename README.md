@@ -1,3 +1,5 @@
+## Bio
+
 **Head of Engineering @ [Wuffes](https://wuffes.com)** | **Founder @ [inso.codes](https://inso.codes)**
 
 ## Projects
