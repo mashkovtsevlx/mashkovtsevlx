@@ -4,8 +4,8 @@
 
 ## Projects
 
-- [Filey](https://apps.shopify.com/filey) — Shopify app for digital file delivery
-- [Alertly](https://apps.shopify.com/alertly) — Shopify app for store notifications
+- [Filey](https://apps.shopify.com/filey) — Shopify app for store content export and import
+- [Alertly](https://apps.shopify.com/alertly) — Shopify app for Conversion Rate, Out of Stock and Service Outage alerts
 
 ## Side Projects
 
