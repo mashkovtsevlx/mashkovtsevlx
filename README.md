@@ -14,4 +14,4 @@
 
 ## Tech
 
-`JavaScript` `Node.js` `Shopify` `Python` `Serverless` `Cloudflare Workers`
+`JavaScript` `Node.js` `Shopify` `Serverless` `AWS`
